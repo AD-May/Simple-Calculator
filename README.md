@@ -16,7 +16,7 @@ Some functionalities the calculator includes are:
 2. Copy the path to the index.html file in the directory.
 3. Open your browser of choice.
 4. Paste the path into your address bar.
-5. Start Calculating! :🤓:
+5. Start Calculating!🤓
 
 # To-Do
 
