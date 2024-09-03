@@ -20,7 +20,7 @@ Some functionalities the calculator includes are:
 
 # To-Do
 
-- [] Enhance accessibility by adding a colorblind mode
-- [] Implement ability to do multiple operations on the memory input at a time
+- [ ] Enhance accessibility by adding a colorblind mode
+- [ ] Implement ability to do multiple operations on the memory input at a time
 
 
